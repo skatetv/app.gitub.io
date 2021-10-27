@@ -5,31 +5,17 @@
   
   
 
-/*button css*/
-.xbtn{
-    font-family: "Roboto", sans-serif;
-    font-size: 18px;
-    font-weight: bold;
-    background: green;
-    width: 80px;
-    padding: 20px;
-    text-align: center;
+
+
+.download-btn{
+    background-color: green;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
     text-decoration: none;
-    text-transform: uppercase;
-    color: #fff;
-    border-radius: 5px;
-    cursor: pointer;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    -webkit-transition-property: box-shadow, transform;
-    transition-property: box-shadow, transform;
+    border-radius:5px;
 }
-.xbtn:hover, .xbtn:focus, .xbtn:active{
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}  
+
       
 
 
